@@ -219,4 +219,7 @@ Content-Length: 52
 
 <?xml version="1.0" encoding="UTF-8"?><foo>bar</foo>
 ```
+### USEFUL INFORMATION
 
+Sometimes `SYSTEM` is dissabled from being used in DTD in those cases we can use
+`PUBLIC`
